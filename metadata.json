@@ -1,0 +1,5 @@
+{
+  "name": "NIR - Mapa de Leitos",
+  "description": "A hospital bed management dashboard for real-time tracking of patient admissions, bed occupancy, and discharge workflows.",
+  "requestFramePermissions": []
+}
